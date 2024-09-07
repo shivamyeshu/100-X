@@ -5,4 +5,7 @@
 // -dynamic // code that change curd 
 
 
-
+// fetching elememt :=
+//1)   document.querySelector("h1/input")
+//1)   document.querySelector("h1/input")
+//1)   document.querySelector("h1/input")
